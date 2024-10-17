@@ -1,1 +1,1 @@
-# loja-infocell2
+# loja-infocell
